@@ -1,8 +1,8 @@
 PROJECT LICENSE
 
-This project was submitted by me, the author, Andreas Albrecht, as part of the Self-Driving Car Nanodegree Program at Udacity. It was developed by me, the author, based on the starter code provided by [Udacity](https://www.udacity.com/) in the respective Udacity student workspace as demanded by Udacity's honor code.
+This project was submitted by me, the author, Mithul Avinash, as part of the Self-Driving Car Nanodegree Program at Udacity. It was developed by me, the author, based on the starter code provided by [Udacity](https://www.udacity.com/) in the respective Udacity student workspace as demanded by Udacity's honor code.
 
-Copyright © 2022 Andreas Albrecht
+Copyright © 2023 Andreas Albrecht
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
 
@@ -10,7 +10,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Besides the above notice, the following license applies, and this license notice must be included in all works derived from this project.
 
 
-Copyright © 2012 - 2021, Udacity, Inc.
+Copyright © 2012 - 2023, Udacity, Inc.
 
 Udacity hereby grants you a license in and to the Educational Content, including but not limited to homework assignments, programming assignments, code samples, and other educational materials and tools (as further described in the Udacity Terms of Use),  subject to, as modified herein, the terms and conditions of the Creative Commons Attribution-NonCommercial- NoDerivs 3.0 License located at http://creativecommons.org/licenses/by-nc-nd/4.0 and successor locations for such license (the "CC License") provided that, in each case, the Educational Content is specifically marked as being subject to the CC License.
 Udacity expressly defines the following as falling outside the definition of "non-commercial":
