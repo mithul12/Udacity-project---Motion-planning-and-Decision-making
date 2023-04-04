@@ -51,7 +51,7 @@ Fig. 1 - 4 show some exemplary screenshots of the project's test case simulation
   
 *Fig 1: Ego vehicle follows the lane without any obstacles within the lookahead range (CARLA simulation of the project's test case).*  
   
-<img src="overtake_left.png"/>  
+<img src="screenshots/overtake_left.png"/>  
   
 *Fig 2: Ego vehicle avoids an obstacle (a parking car) on the right by executing a nudging maneouver to the left (CARLA simulation of the project's test case).*  
   
@@ -59,7 +59,7 @@ Fig. 1 - 4 show some exemplary screenshots of the project's test case simulation
   
 *Fig 3: Ego vehicle avoids an obstacle (a parking car) on the left by executing a nudging maneouver to the right (CARLA simulation of the project's test case).*  
   
-<img src="stop.png"/>  
+<img src="screenshots/stop.png"/>  
   
 *Fig 4: Ego vehicle slows down towards the stop line and finally stop. Therefore, the planned trajectories go down in vertical direction to visualize the velocity reduction (CARLA simulation of the project's test case).*  
   
