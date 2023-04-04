@@ -47,19 +47,19 @@ kill id
 ## Simulation Results
 Fig. 1 - 4 show some exemplary screenshots of the project's test case simulation using [CARLA](https://carla.org/). The trajectories in blue color show the potential tracks that have been evaluated. The red tracks are the ones which would lead to a collsion, and thus, cannot be taken. The green track is the actual track that has been chosen. The level of the trajectories in vertical direction shown in the screenshots is proportional to the planned velocity. When the ego vehicle decelerates the curves go down, for instance, or visce versa if the ego vehicle accelerates.  
 
-<img src="screenshots/ego_vehicle_follows_the_lane.png"/>  
+<img src="screenshots/starting_point.png"/>  
   
 *Fig 1: Ego vehicle follows the lane without any obstacles within the lookahead range (CARLA simulation of the project's test case).*  
   
-<img src="screenshots/ego_vehicle_avoids_parking_car_on_the_right.png"/>  
+<img src="overtake_left.png"/>  
   
 *Fig 2: Ego vehicle avoids an obstacle (a parking car) on the right by executing a nudging maneouver to the left (CARLA simulation of the project's test case).*  
   
-<img src="screenshots/ego_vehicle_avoids_parking_car_on_the_left.png"/>  
+<img src="screenshots/overtake_right.png"/>  
   
 *Fig 3: Ego vehicle avoids an obstacle (a parking car) on the left by executing a nudging maneouver to the right (CARLA simulation of the project's test case).*  
   
-<img src="screenshots/ego_vehicle_decelerates_at_stop_line.png"/>  
+<img src="stop.png"/>  
   
 *Fig 4: Ego vehicle slows down towards the stop line and finally stop. Therefore, the planned trajectories go down in vertical direction to visualize the velocity reduction (CARLA simulation of the project's test case).*  
   
